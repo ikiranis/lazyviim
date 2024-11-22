@@ -1,5 +1,6 @@
 {
     "diagnostics.globals": [
-        "insert_xdebug"
+        "insert_xdebug",
+        "lsp"
     ]
 }
